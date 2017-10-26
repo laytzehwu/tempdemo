@@ -1,0 +1,36 @@
+{
+    "resources": [
+        {
+            "name": "css/style.css"
+        },
+        {
+            "name": "view/weather.view.xml"
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": "controller/weather.controller.js"
+        },
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "index.html"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "neo-app.json"
+        }
+    ]
+}
